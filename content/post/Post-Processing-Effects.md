@@ -1,6 +1,6 @@
 +++
 date = "2016-05-07T19:46:59+03:00"
-draft = true
+draft = false
 title = "Post Processing Effects"
 image = "dof.jpg"
 +++

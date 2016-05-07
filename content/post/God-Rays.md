@@ -1,9 +1,9 @@
 +++
 date = "2016-05-07T19:35:15+03:00"
-draft = true
+draft = false
 title = "God Rays"
 image = "godray.jpg"
-description = "http://arkenthera.github.io/Yume-Engine-Light-Shafts/"
+description = "http://arkenthera.github.io/blog/Yume-Engine-Light-Shafts/"
 +++
 
 There is a way to achieve light shafts/god rays/light beams without too much of a work.As described in GPU GEMS god rays can be achieved with a simple trick.It wont be very accurate but we’ll get results

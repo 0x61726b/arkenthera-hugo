@@ -1,9 +1,9 @@
 +++
 date = "2016-05-07T19:50:03+03:00"
-draft = true
+draft = false
 title = "Light Propagation Volumes"
 image = "lpv.png"
-blogpost = "http://arkenthera.github.io/Yume-Engine-11-days-later/"
+blogpost = "http://arkenthera.github.io/blog/Yume-Engine-11-days-later/"
 paperlink = "http://cg.ibds.kit.edu/publications/p2010/CLPVFRII_Kaplanyan_2010/CLPVFRII_Kaplanyan_2010.pdf"
 +++
 
